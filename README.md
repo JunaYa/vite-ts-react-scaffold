@@ -1,4 +1,9 @@
-# ffmpeg 在浏览器探索
+# vite react ts scaffold
 
-## function
-[] 合成水印
+## install
+
+## run
+
+## test
+
+## stuctrure
