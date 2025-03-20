@@ -1,7 +1,11 @@
+import { RouterProvider } from "react-router-dom";
+import router from "./routes";
 import "./App.css";
 
 function App() {
-  return <div className="App"></div>;
+  return (
+    <RouterProvider router={router} fallbackElement={<p>Initial Load...</p>} />
+  );
 }
 
 export default App;
